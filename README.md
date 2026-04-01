@@ -1,7 +1,7 @@
 # 🦆 Silly Duck
 Bem-vindo ao Silly Duck! Um patinho digital amigável e um pouco bobo que passeia pela sua área de trabalho, trazendo um pouco de diversão e caos para o seu dia.
 
-![Silly_Duck](https://github.com/user-attachments/assets/4d8c8dfa-f364-4440-b947-45447761cbed)
+![Silly_Duck]([https://github.com/user-attachments/assets/4d8c8dfa-f364-4440-b947-45447761cbed](https://img.itch.zone/aW1hZ2UvMjA2MjMyMy8xMjEyNjQ3OC5naWY=/original/O7D%2BBO.gif))
 
 ## Descrição
 Silly Duck é um "desktop pet" (mascote de área de trabalho) desenvolvido em Python. Ele é um pato animado que anda de um lado para o outro na tela, persegue o cursor do mouse, reage a cliques e até tenta arrastar o seu mouse com o bico. É um projeto simples e divertido, perfeito para quem quer um companheiro virtual enquanto estuda ou trabalha.
